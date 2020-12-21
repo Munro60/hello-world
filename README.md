@@ -1,2 +1,3 @@
 # hello-world
-First Project
+First Project 
+Hello! My name is Harry , im 23 and am learning on GitHub
